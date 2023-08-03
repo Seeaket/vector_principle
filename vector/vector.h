@@ -263,7 +263,7 @@ public:
 	}
 	void clear()
 	{
-
+		_finish = _start;
 	}
 	~vectors()
 	{
